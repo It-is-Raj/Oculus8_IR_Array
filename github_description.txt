@@ -1,0 +1,1 @@
+8-channel analog IR reflectance sensor array (QRE1113GR) with an ISR-driven, non-blocking Arduino/ATmega328P reader for fast line followers. Outputs calibrated position, line status (on-line/edge/junction/lost) and saturation. Hardware + firmware; source-available, commercial licensing on request.
